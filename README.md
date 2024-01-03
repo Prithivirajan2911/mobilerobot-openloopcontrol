@@ -93,32 +93,12 @@ if _name_ == '_main_':
 ![WhatsApp Image 2023-12-28 at 3 58 41 PM (2)](https://github.com/Prithivirajan2911/mobilerobot-openloopcontrol/assets/147020085/ac2d033a-1ebd-4cff-a365-15a75bcc5831)
 ![WhatsApp Image 2023-12-28 at 3 58 41 PM (3)](https://github.com/Prithivirajan2911/mobilerobot-openloopcontrol/assets/147020085/5831ebe1-fae0-4dd0-bd4f-3d64edb75fe8)
 
-
-<br/>
-<br/>
-<br/>
-<br/>
-
 ## MobileRobot Movement Video:
 
 Upload your video in Youtube and paste your video-id here
 
 https://youtu.be/dUtd1FnMlwY?si=_v3S-ukKMnpdri4x
 
-<br/>
-<br/>
-<br/>
-<br/>
-
 ## Result:
 Thus the python program code is developed to move the mobilerobot in the predefined path.
 
-
-<br/>
-<br/>
-
-```
-Mobile Robotics Laboratory
-Department of Artificial Intelligence and Data Science/ Machine Learning
-Saveetha Engineering College
-```
