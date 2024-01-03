@@ -86,8 +86,6 @@ if _name_ == '_main_':
 
 ## MobileRobot Movement Image:
 
-![robo](./img/robomaster.png)
-
 ![WhatsApp Image 2023-12-28 at 3 58 41 PM](https://github.com/Prithivirajan2911/mobilerobot-openloopcontrol/assets/147020085/23394f15-3816-4ffd-987d-2662ee1db682)
 ![WhatsApp Image 2023-12-28 at 3 58 41 PM (1)](https://github.com/Prithivirajan2911/mobilerobot-openloopcontrol/assets/147020085/c100f2c2-6860-4435-b935-c8a05d074dfb)
 ![WhatsApp Image 2023-12-28 at 3 58 41 PM (2)](https://github.com/Prithivirajan2911/mobilerobot-openloopcontrol/assets/147020085/ac2d033a-1ebd-4cff-a365-15a75bcc5831)
